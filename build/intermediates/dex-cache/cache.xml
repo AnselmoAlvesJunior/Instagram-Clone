@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\anselmo.junior\Downloads\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\anselmo.junior\Downloads\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-2d2dfae4e1006342537cb76fc85ea7ba3e948113.jar" />
+    </item>
+
+</items>

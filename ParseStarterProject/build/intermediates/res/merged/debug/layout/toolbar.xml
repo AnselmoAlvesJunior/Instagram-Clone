@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<android.support.v7.widget.Toolbar android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimary"
+    android:elevation="2dp"/>
+
+<!-- From: file:/C:/Users/anselmo.junior/Downloads/Parse-Projeto-1.13.0/ParseStarterProject/src/main/res/layout/toolbar.xml -->
